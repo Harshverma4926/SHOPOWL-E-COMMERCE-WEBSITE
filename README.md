@@ -1,4 +1,4 @@
-![React](https://img.shields.io/badge/React-18-blue)
+<img width="1904" height="872" alt="image" src="https://github.com/user-attachments/assets/24d7be19-95d3-409e-b900-29755147c671" />![React](https://img.shields.io/badge/React-18-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38BDF8)
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -141,20 +141,6 @@ Through this project I learned:
 * Responsive UI Design
 * Tailwind CSS Styling
 * Debugging React Applications
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Category Page
-* Product Page
-* Shopping Cart
-* Login Page
-
-inside a `screenshots` folder and link them here.
 
 ---
 
